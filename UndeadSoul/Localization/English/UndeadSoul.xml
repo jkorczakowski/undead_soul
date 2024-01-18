@@ -8,7 +8,7 @@
   <content contentuid="7fc91f43-67f4-4386-891a-7c2797024da7" version="1">Death's Embrace</content>
   <content contentuid="ab69e983-8b63-4a67-98ab-0b5adac1871f" version="1">You are Resistant to Necrotic Damage. Your Necrotic Damage bypasses any resistance (not immunity) the enemy may have to it.</content>
   <content contentuid="a8a4d1d1-eba2-4891-adea-a4d2da2f6e17" version="1">Death's Gift</content>
-  <content contentuid="cd570765-d29d-4569-88d8-11d844f13527" version="1">Once per day, when your companion falls, you can use your Reaction and spend 4 Sorcery Points to restore half of his health.</content>
+  <content contentuid="cd570765-d29d-4569-88d8-11d844f13527" version="1">Once per day, when your companion falls, you can use your Reaction and spend 3 Sorcery Points to restore half of his health.</content>
   <content contentuid="6462e271-239e-4d75-b923-8b36bb6763a4" version="1">Necrotic Exhaustion</content>
   <content contentuid="43a3f111-1b6f-439d-b328-840fe2ba5e9b" version="1">You can't use Death's Gift until Long Rest.</content>
 </contentList>
