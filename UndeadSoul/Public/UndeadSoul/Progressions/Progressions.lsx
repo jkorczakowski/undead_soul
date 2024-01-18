@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+
+
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(Daggers);Proficiency(Quarterstaffs);Proficiency(LightCrossbows)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Sorcerer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(8743f14b-64de-4858-b056-50902a00df1a,2);SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,4,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(92c4751f-6255-4f67-822c-a75d53830b27,2,0,SorcererSpell);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
+                    <attribute id="UUID" type="guid" value="42af9bda-9ac0-4564-920b-f9ca1588d6ee"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="14374d37-a70e-41a8-9dc5-85a23f8b5dd2"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="36286b0a-26f9-4b4e-9311-fd1404301d20"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="d379fdae-b401-4731-8d50-277c73919ae3"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="d7c37ef7-5661-4630-b88d-377c15f7e404"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Progression">
+                    <attribute id="IsMulticlass" type="bool" value="true"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Sorcerer"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,4,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(92c4751f-6255-4f67-822c-a75d53830b27,2,0,SorcererSpell)"/>
+                    <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
+                    <attribute id="UUID" type="guid" value="e115c732-80b1-4ae1-bf04-cee44660d64f"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="14374d37-a70e-41a8-9dc5-85a23f8b5dd2"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="36286b0a-26f9-4b4e-9311-fd1404301d20"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="d379fdae-b401-4731-8d50-277c73919ae3"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="d7c37ef7-5661-4630-b88d-377c15f7e404"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(ClassLevel(Sorcerer))" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="PassivesAdded" type="LSString" value="UndeadArcana;MortalAegis" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2c900f72-fbbe-4bfc-b69d-cf241a3f804b,UndeadArcanaSpell)" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="58fae11c-5f00-4c8b-b13d-3b985d459c7c" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="89756164-4543-4545-9f23-bf15432a5f5d" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(80c52901-6c79-457d-9027-f4afeed9ab21,UndeadArcanaSpell)" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="c33c63c0-2190-4fe7-9107-cbe83cc1e681" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="4" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="c720d9eb-7151-43bc-9812-fe14413178ce" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(cbad32dd-dfbc-4f0b-bfff-f766a826add7,UndeadArcanaSpell)" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="18202650-0ee7-423e-a0c5-7cb1a26feb1e" />
+                </node>
+            
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="PassivesAdded" type="LSString" value="UndeadThrall_FreeSpell;UndeadThrall_BetterSummon" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="0a3c8001-c81b-45cb-933d-5db214e41b6c" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ad77a568-0cb4-42fe-a8bd-469ae243d369,UndeadArcanaSpell)" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="758fba23-db9e-4b44-aff0-94a2103aed48" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="a0879db7-29e9-4244-bd21-38b04437c30e" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="DeathsEmbrace" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a135658b-c4f4-43e0-995c-1f19562f7016,UndeadArcanaSpell)" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="8e2c7a6a-24f7-4592-9715-1870569c59d4" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                     <attribute id="PassivesAdded" type="LSString" value="DeathsGift" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="0561261b-c413-42f6-9bf6-cb7bc2a9debc" />
+                </node>
+                
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="" />
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(4aade3f5-2ba0-4ab0-b9f5-9756b1bc0ce3,UndeadArcanaSpell)" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="8e7639c4-d4c4-4b43-8c5f-8dfce0a6b744" />
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="UndeadSoul" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="TableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80" />
+                    <attribute id="UUID" type="guid" value="63d4ec23-5fb6-4127-8fdc-76e163e32499" />
+                </node>
+
+
+            </children>
+        </node>
+    </region>
+</save>

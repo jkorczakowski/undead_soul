@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="100"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Sorcerer_StormSorcery"/>
+                    <attribute id="Description" type="TranslatedString" handle="80e5cef7-b512-4a21-ad4d-8ca82fcbcada" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="d561a4f0-2eb3-416c-96a7-3620df4c507f" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="UndeadSoul"/>
+                    <attribute id="ParentGuid" type="guid" value="784001e2-c96d-4153-beb6-2adbef5abc92"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="32a01d04-06e4-4528-b920-7561e5b50f80"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="UUID" type="guid" value="d7c37ef7-5661-4630-b88d-377c15f7e404"/>
+                </node>
+
+            </children>
+        </node>
+    </region>
+</save>
