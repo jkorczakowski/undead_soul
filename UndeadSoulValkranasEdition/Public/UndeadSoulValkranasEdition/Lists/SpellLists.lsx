@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+
+            <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Undead Arcana Spell 1" />
+                    <attribute id="Spells" type="LSString" value="Projectile_ValkranaShadowfellSalvo" />
+                    <attribute id="UUID" type="guid" value="2c900f72-fbbe-4bfc-b69d-cf241a3f804b" />
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Undead Arcana Spell 2" />
+                    <attribute id="Spells" type="LSString" value="Target_ValkranaCorpseGrenade" />
+                    <attribute id="UUID" type="guid" value="80c52901-6c79-457d-9027-f4afeed9ab21" />
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Undead Arcana Spell 3" />
+                    <attribute id="Spells" type="LSString" value="" />
+                    <attribute id="UUID" type="guid" value="cbad32dd-dfbc-4f0b-bfff-f766a826add7" />
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Undead Arcana Spell 4" />
+                    <attribute id="Spells" type="LSString" value="Shout_ValkranaNegativeEnergyField;Target_ValkranaUnsealSoul" />
+                    <attribute id="UUID" type="guid" value="ad77a568-0cb4-42fe-a8bd-469ae243d369" />
+                </node> 
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Undead Arcana Spell 5" />
+                    <attribute id="Spells" type="LSString" value="Target_ValkranaDreadSkeleton" />
+                    <attribute id="UUID" type="guid" value="a135658b-c4f4-43e0-995c-1f19562f7016" />
+                </node>
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Undead Arcana Spell 6" />
+                    <attribute id="Spells" type="LSString" value="Target_CreateUndead;Zone_ValkranaArcVivisector" />
+                    <attribute id="UUID" type="guid" value="4aade3f5-2ba0-4ab0-b9f5-9756b1bc0ce3" />
+                </node>
+
+            </children>
+        </node>
+    </region>
+</save>
